@@ -5,6 +5,10 @@
 
 Technologies Used :
     1. Front-End :
+        - HTML
+        - CSS (Bootstrap5)
     2. Back-End :
+        - Python 
     3. Database :
+        - SQLite3
         
