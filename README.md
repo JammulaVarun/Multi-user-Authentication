@@ -10,7 +10,7 @@ venv\scripts\activate
 ```
 2. Installing packages 
 ```
-pipenv install -r requirements.txt
+pip install -r requirements.txt
 ```
 3. Making Migrations
 ```
