@@ -1,43 +1,7 @@
-# Multi-User Authentication
-Multi-User Authentication using Django
-    
-*   User will be able to register on the website, and then the user will also receive a confirmation email in order to activate his/her account. After that, the user can log in to the system at any time.
+## This Projects has been taken down due to rollout of new Rules & Regulations of Google security standards
 
-## Project Setup :
-1. Activating the virtual environment
-```
-venv\scripts\activate
-```
-2. Installing packages 
-```
-pip install -r requirements.txt
-```
-3. Making Migrations
-```
-python manage.py makemigrations
-python manage.py migrate
-```
-4. Running server
-```
-python manage.py runserver
-```
-5. De-activating the virtual environment
-```
-deactivate
-```
-    
-    
-To create a Superadmin :
+>  ### Image 1
+![Capture01](https://user-images.githubusercontent.com/69737168/229369285-e05ac767-9e3a-4093-b61f-91941f57ba77.PNG)
 
-    py manage.py createsuperuser
-    
-## Technologies Used :
-1.  Front-End
-    * HTML
-    * CSS (Bootstrap5)
-2.  Back-End
-    * Python 
-3.  Database
-    * SQLite3
-4.  Framework :
-    * Django
+>  ### Image 2
+![Capture](https://user-images.githubusercontent.com/69737168/229369275-a0f23ba5-36e1-4bb2-9a8d-8d34aff78a39.PNG)
